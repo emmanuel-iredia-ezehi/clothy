@@ -2,11 +2,6 @@
 
 https://clothy.vercel.app
 
-# Screenshot
-
-![image](https://user-images.githubusercontent.com/76805999/168877362-096d9f09-8e88-4da3-ad3f-f7fa38793f4e.png)
-
-
 ## Available Scripts
 
 In the project directory, you can run:
